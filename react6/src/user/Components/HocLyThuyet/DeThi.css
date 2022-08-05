@@ -1,0 +1,25 @@
+.padding5px{
+    padding: 5px;
+}
+
+
+
+
+
+.btn-thongtin {
+    
+    margin: 0 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    line-height: 30px;
+    padding-left: 10px;
+}
+.btn-thongtin2 {
+    width: 150px;
+}
+.btn-suc{
+    background-color: #1df565;
+    min-width: 48px;
+    text-decoration: none ;
+    color: rgb(38, 113, 160);
+}

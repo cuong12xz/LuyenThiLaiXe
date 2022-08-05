@@ -1,0 +1,39 @@
+.dethibag{
+    padding-top: 55px;
+    position: relative;
+    flex-grow: 1;
+    background-color: #17a2b8;
+}
+.bag{
+    padding-top: 55px;
+    position: relative;
+    flex-grow: 1;
+}
+.inbo{
+    box-shadow:0px 0px 5px #888888;
+}
+.listdethi{
+    
+    
+}
+.chitiet{
+    background-color: #999!important;
+    max-width: 830px;
+}
+.themsua{
+    background-color: #999!important;
+
+}
+.chitiet ul {
+    border: #635454;
+    padding-right:10px;
+}
+.overlay-left>ul>li {
+    width: 90px;
+}
+.chitiet ul li:hover{
+    box-shadow:0px 0px 5px #d55f5f;
+    padding:0 5px 5px 5px;
+    color:#5cd35c;
+    cursor:pointer;
+}

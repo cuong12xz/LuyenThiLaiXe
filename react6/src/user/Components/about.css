@@ -1,0 +1,10 @@
+#about{
+    background-color: white;
+}
+.ab{
+    background-image: url(../../../public/images/about.png);
+    background-size: contain !important;
+	-webkit-background-size: cover !important;
+    width: 300px;
+    height: 380px;
+}

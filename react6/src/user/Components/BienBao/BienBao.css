@@ -1,0 +1,29 @@
+.top1{
+   
+}
+.quendi{
+    margin:0px 100px ;
+
+}
+.quendi:last-child{
+    padding-left: 80px;
+    padding: 5px 60px;
+    
+}
+h3.quendi{
+    font-weight: 800;
+
+}
+.imgbb{
+    width:250px;
+    height: auto;
+}
+.trbb{
+    vertical-align: top;
+    padding: 20px 0px 0px 30px ;
+}
+.trbb div:first-child{
+    font-weight: bold;
+    padding-bottom: 10px;
+
+}

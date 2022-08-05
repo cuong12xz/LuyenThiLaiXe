@@ -1,0 +1,78 @@
+div.content {
+    background-color: #fff;
+}
+.bg-white{
+    background-color: white;
+}
+.ndcauhoi {
+    display: none;
+}
+img {
+    vertical-align: middle;
+    width: 100%;
+}
+
+div.content img.hinhnho {
+    height: auto;
+}
+.cautraloi {
+    margin-bottom: 0.7em;
+}
+.causau{
+    float: right;
+}
+.next2{
+    margin-top: 30px;
+    padding: 0 30px;
+}
+
+.pager li {
+    display: inline;
+}
+.pager .previous>a, .pager .previous>span {
+    float: left;
+}
+.pager li>a, .pager li>span {
+    display: inline-block;
+    padding: 5px 14px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+}
+.dapan2{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 17px;
+    background: #42b729; 
+    padding-top: 10px; 
+    border-radius: 0px 20px;
+}
+.batdauthi{position: absolute;
+}
+.moi1{
+    position: absolute;
+    background-color: rgb(92, 103, 103);
+    height: 869px;
+    width: 100%;
+    margin-left: 0px;
+    padding-left: 0px;
+    z-index: 10;
+   
+}
+.buttonbatdau{
+ position: absolute;
+ left: 50%;
+  transform: translateX(-50%);
+  top: 50%;
+  transform: translateY(-50%);
+}
+.container.bg-white {
+    text-align: left;
+}
+.border2{
+    border:1px solid skyblue;
+    padding-left: 15px;
+   
+}
+.xemlaibailam{margin:50px 100px;
+min-height: 400px;}

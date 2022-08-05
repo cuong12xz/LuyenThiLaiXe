@@ -1,0 +1,20 @@
+.bgcolornav{
+    background-color: #32ff7e!important;
+  
+}
+.navbar-dropdown-item{
+    color: #000 !important; 
+}
+.navright{
+    float: right;
+}
+.nav1{
+    
+}
+#nav-wrap{
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}

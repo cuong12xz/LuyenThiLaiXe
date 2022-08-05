@@ -1,0 +1,28 @@
+a {
+    text-decoration: none !important;
+}
+.butto {
+    background-color: rgb(33, 187, 74);
+}
+.butto a {
+    color: beige;
+}
+.d-flex {
+    background-color: rgb(242, 179, 179);
+}
+.list {
+    margin-top: 20px;
+}
+.list table {
+    background-color: #9da4a4;
+}
+.list > button {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.list button {
+    margin-right: 5px;
+}
+.list table tr:first-child th{
+    background-color: blueviolet;
+}

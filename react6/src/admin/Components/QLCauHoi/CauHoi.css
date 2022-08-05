@@ -1,0 +1,28 @@
+.inline2{
+    width: 500px;
+    padding-left: 70px;
+   
+}
+.bag{
+    padding-top: 55px;
+    position: relative;
+    flex-grow: 1;
+}
+.inline2 input{
+   
+    box-shadow:0px 0px 5px #888888;
+}
+.cauhoibag{
+
+    position: sticky;
+    flex-grow: 1;
+    background-color: #17a2b8;
+    
+    height: 1150px;
+}
+.cauhoibag>h1{
+    color: #888888;
+}
+.submitend{
+    margin-top: 30px;
+}
